@@ -1,0 +1,5 @@
+To connect to git repository: git config --global user.name "AnandAD123"
+To clone git repository:
+git clone https://github.com/AnandAD123/AD.git
+To get github status:
+git status
